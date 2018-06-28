@@ -1,0 +1,3 @@
+Readme：
+This part is about how to use the SVM to classify images into the pretrained image data.
+The compiler is VS2017 commity & opencv 2.4.13
